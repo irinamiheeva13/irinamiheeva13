@@ -3,6 +3,7 @@
 
 ### I'm a beginner frontend developer from Moscow. I'm learning how to create interfaces and apps with the help of JavaScript and React. Please check my most recent projects:
 
+* [Twitter clone on React](https://github.com/irinamiheeva13/ReactTwitterClone)
 * [Quote randomizer](https://github.com/irinamiheeva13/quotes)
 * [Todo in React JS](https://github.com/irinamiheeva13/ToDo-React)
 * [Calculator in vanilla JS](https://github.com/irinamiheeva13/CalculatorVanilla)
