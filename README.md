@@ -1,7 +1,7 @@
 ## Hi everyone! I'm Irina
 
 
-### I'm a beginner frontend developer from Moscow. I'm learning how to create interfaces and apps with the help of JavaScript and React. Please check my most recent projects:
+### I'm a junior frontend developer from Moscow. I'm learning how to create interfaces and apps with the help of JavaScript and React. Please check my most recent projects:
 
 * [Game of Thrones Data Base](https://github.com/irinamiheeva13/GameOfThrones_DB)
 * [Twitter clone on React](https://github.com/irinamiheeva13/ReactTwitterClone)
