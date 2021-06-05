@@ -4,8 +4,8 @@
 ### I'm a junior frontend developer from Moscow. I'm learning how to create interfaces and apps with the help of JavaScript and React. Please check my most recent projects:
 
 * [Memory Game on React](https://github.com/irinamiheeva13/MemoryGameReact)
-* [Quote randomizer](https://github.com/irinamiheeva13/quotes)
-* [Game of Thrones Data Base](https://github.com/irinamiheeva13/GameOfThrones_DB)
+* [Quote randomizer JS](https://github.com/irinamiheeva13/quotes)
+* [Game of Thrones Data Base on React](https://github.com/irinamiheeva13/GameOfThrones_DB)
 * [Twitter clone on React](https://github.com/irinamiheeva13/ReactTwitterClone)
 * [Todo in React JS](https://github.com/irinamiheeva13/ToDo-React)
 
