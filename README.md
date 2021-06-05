@@ -3,11 +3,12 @@
 
 ### I'm a junior frontend developer from Moscow. I'm learning how to create interfaces and apps with the help of JavaScript and React. Please check my most recent projects:
 
+* [Memory Game on React](https://github.com/irinamiheeva13/MemoryGameReact)
+* [Quote randomizer](https://github.com/irinamiheeva13/quotes)
 * [Game of Thrones Data Base](https://github.com/irinamiheeva13/GameOfThrones_DB)
 * [Twitter clone on React](https://github.com/irinamiheeva13/ReactTwitterClone)
-* [Quote randomizer](https://github.com/irinamiheeva13/quotes)
 * [Todo in React JS](https://github.com/irinamiheeva13/ToDo-React)
-* [Calculator in vanilla JS](https://github.com/irinamiheeva13/CalculatorVanilla)
+
 
 
 
