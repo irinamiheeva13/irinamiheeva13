@@ -9,7 +9,7 @@
 
 
 ### **Languages and Technologies**
-![HTML5](https://img.shields.io/badge/-HTML5-red) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JS](https://img.shields.io/badge/-JAVASCRIPT-yellow)![REACT](https://img.shields.io/badge/-REACT-lightgrey)  ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-pink) ![REDUX](https://img.shields.io/badge/-REDUX-blue) ![FIGMA](https://img.shields.io/badge/-FIGMAyellowgreen) ![WEBPACK](https://img.shields.io/badge/-WEBPACK-lightgrey) ![ES6](https://img.shields.io/badge/-ES6-green) ![PROMISES](https://img.shields.io/badge/-PROMISES-yellowgreen)
+![HTML5](https://img.shields.io/badge/-HTML5-red) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JS](https://img.shields.io/badge/-JAVASCRIPT-yellow) ![REACT](https://img.shields.io/badge/-REACT-lightgrey)  ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-pink) ![REDUX](https://img.shields.io/badge/-REDUX-blue) ![FIGMA](https://img.shields.io/badge/-FIGMA-yellowgreen) ![WEBPACK](https://img.shields.io/badge/-WEBPACK-lightgrey) ![ES6](https://img.shields.io/badge/-ES6-green) ![PROMISES](https://img.shields.io/badge/-PROMISES-yellowgreen)
 
 
 
