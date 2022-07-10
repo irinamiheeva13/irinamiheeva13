@@ -5,8 +5,8 @@
 
 You are also welcome to check my most recent projects:
 
+* [Personal website](https://github.com/irinamiheeva13/personalweb)
 * [Memory Game on React](https://github.com/irinamiheeva13/MemoryGameReact)
-* [Game of Thrones Data Base on React](https://github.com/irinamiheeva13/GameOfThrones_DB)
 
 
 
